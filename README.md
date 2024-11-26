@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creatormehedihasan" alt="creatormehedihasan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mehedihasanruet" target="blank"><img src="https://img.shields.io/twitter/follow/mehedihasanruet?logo=twitter&style=for-the-badge" alt="mehedihasanruet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mehedihasanruet" target="blank"><img src="[https://img.shields.io/twitter/follow/mehedihasanruet?logo=twitter&style=for-the-badge](https://pbs.twimg.com/profile_banners/1861099073425809414/1732556286/1080x360)" alt="mehedihasanruet" /></a> </p>
 
 - 📫 How to reach me **mehedihasanrafi005@gmail.com**
 
