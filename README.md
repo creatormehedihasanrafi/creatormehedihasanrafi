@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<img src="https://www.facebook.com/photo/?fbid=1230308208218881&set=a.338981880684856" alt="image not found">
+<img src="https://x.com/MehediHasanRUET/header_photo" alt="image not found">
 <h3 align="center">I am web developer, excel expertise , programmer ,cyber security expert and content creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=creatormehedihasan&label=Profile%20views&color=0e75b6&style=flat" alt="creatormehedihasan" /> </p>
+<p align="left"> <img src="https://x.com/MehediHasanRUET/header_photo" alt="creatormehedihasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creatormehedihasan" alt="creatormehedihasan" /></a> </p>
+<p align="left"> <a href="" alt="creatormehedihasan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mehedihasanruet" target="blank"><img src="[https://img.shields.io/twitter/follow/mehedihasanruet?logo=twitter&style=for-the-badge](https://pbs.twimg.com/profile_banners/1861099073425809414/1732556286/1080x360)" alt="mehedihasanruet" /></a> </p>
 
